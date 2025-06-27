@@ -19,6 +19,5 @@ public class reverse_pyramidNumber {
             }
             System.out.println();
         }
-
     }
 }
