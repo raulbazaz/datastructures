@@ -13,7 +13,7 @@ public class q1Array {
         int x = sc.nextInt();
         for (int i = 0; i < arr.length; i++) {
             if(arr[i]==x){
-                System.out.println(i);
+                System.out.println("the index of found number is " + i);
             } //printing out the index of the number found in the array
         }
     }
